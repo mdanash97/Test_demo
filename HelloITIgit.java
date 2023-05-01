@@ -8,6 +8,7 @@ class HelloITI
 		
 		System.out.println("Hello ITI");
 		System.out.println("Hello ITI");
+		System.out.println("Hello ITI");
 		
 	}
 }
